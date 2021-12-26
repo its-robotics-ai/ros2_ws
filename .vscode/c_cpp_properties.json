@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/foxy/include/**",
+        "/workspaces/ros2_ws/src/examples/rclcpp/composition/minimal_composition/include/**",
+        "/workspaces/ros2_ws/src/examples/rclcpp/executors/cbg_executor/include/**",
+        "/workspaces/ros2_ws/src/examples/rclcpp/wait_set/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
